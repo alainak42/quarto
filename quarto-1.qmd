@@ -3,3 +3,7 @@ title: "my first quarto document"
 format: html
 ---
 
+
+## my header
+
+You can do a lot of cool things in Quarto like **bold** and *italic* text.
